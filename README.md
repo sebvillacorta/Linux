@@ -1,4 +1,4 @@
-(https://github.com/sebvillacorta/Win11-Optimization-Toolkit/blob/7bfc29a4d53121bce6abbf01028aac74e778eeab/dock/Screenshot%202025-11-10%20152006.png)
+(https://github.com/sebvillacorta/Linux/blob/36786fc877d13cbcffdd522ae96de8a949555977/412698c7149335c6fc57e9cb2bedefa9.jpg)
 
 <div align="center">
     
