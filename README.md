@@ -40,18 +40,16 @@ A continuación presento mi tier list, no para decidir quién gana o cuál es �
  
 
 
-
-
 <div align="center">
   
-![image2](https://github.com/sebvillacorta/Linux/blob/main/9d2b715ce7e074b6570ff8bcc641091a.jpg?raw=true)
+# ⭐ Tier List por tipo de usuario
 
 </div>
 
-## ⭐ Tier List por tipo de usuario
-
 ## 🟠 Ubuntu
 https://ubuntu.com/download
+![image2](https://github.com/sebvillacorta/Linux/blob/main/images/ubuntu.jpg?raw=true)
+
 
 Ubuntu es una distribución Linux basada en Debian y desarrollada por Canonical. Es muy conocida por su facilidad de uso, lo que la convierte en una excelente opción para los principiantes en el mundo Linux. Además, está orientada a la estabilidad y al soporte a largo plazo, con versiones LTS (Long Term Support) que garantizan 5 años de actualizaciones y parches de seguridad.
 
