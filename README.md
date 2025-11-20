@@ -34,8 +34,44 @@ Ya sea que busques más estabilidad, más velocidad, más personalización, o si
 
 A continuación presento mi tier list, no para decidir quién gana o cuál es “el mejor”, sino para ayudarte a descubrir qué distribución encaja mejor contigo según tu tipo de uso, estilo y necesidades.
 
+<div align="center">
+  
+![image2](https://github.com/sebvillacorta/Linux/blob/main/9d2b715ce7e074b6570ff8bcc641091a.jpg?raw=true)
+
+</div>
+
 ## ⭐ Tier List por tipo de usuario
 
-![image2]()
+## 🟠 Ubuntu
+https://ubuntu.com/download
+
+Ubuntu es una distribución Linux basada en Debian y desarrollada por Canonical. Es muy conocida por su facilidad de uso, lo que la convierte en una excelente opción para los principiantes en el mundo Linux. Además, está orientada a la estabilidad y al soporte a largo plazo, con versiones LTS (Long Term Support) que garantizan 5 años de actualizaciones y parches de seguridad.
 
 
+## Ideal para:
+
+  - Principiantes en Linux
+
+  - Programación
+
+  - Ofimática y estudio
+
+  - Equipos de trabajo y empresas
+
+## Ventajas:
+
+  - Instalación sencilla: su proceso de instalación es simple y amigable.
+
+  - Gran comunidad: hay una enorme cantidad de documentación y foros donde puedes resolver dudas.
+
+  - Amplio software: Ubuntu cuenta con una enorme cantidad de programas disponibles en sus repositorios.
+
+  - Soporte largo: las versiones LTS reciben actualizaciones y soporte durante 5 años.
+
+## Desventajas:
+
+  - No es la más ligera: al ser una distro más orientada a la facilidad de uso, no es la opción más ligera en cuanto a recursos.
+
+  - Dependencia de Snap: Ubuntu ha integrado el sistema de paquetes Snap, lo que no gusta a todos los usuarios debido a su       tamaño y algunos problemas de compatibilidad.
+
+    💬 Ubuntu es uno de mis sistemas favoritos porque es perfecto para iniciarme en cualquier proyecto sin tener que complicarme demasiado con la configuración. Su estabilidad y soporte son invaluables.
