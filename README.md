@@ -1,4 +1,4 @@
-![image](https://github.com/sebvillacorta/Linux/blob/36786fc877d13cbcffdd522ae96de8a949555977/412698c7149335c6fc57e9cb2bedefa9.jpgraw=true)
+
 
 <div align="center">
     
