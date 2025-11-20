@@ -4,6 +4,7 @@
 
 ![image1](https://github.com/sebvillacorta/Linux/blob/main/images/banner2.jpg?raw=true)
 
+
   <a href="https://github.com/sebvillacorta" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-sebvillacorta-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -22,6 +23,8 @@
   <a href="mailto:sssebastianraul@gmail.com">
     <img src="https://img.shields.io/badge/Email-sssebastianraul@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+ 
+---
 
 </div>
 
