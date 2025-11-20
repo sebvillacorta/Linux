@@ -1,6 +1,6 @@
 <div align="center">
 
-![image1](https://github.com/sebvillacorta/Linux/blob/main/412698c7149335c6fc57e9cb2bedefa9.jpg?raw=true)
+![image1](https://github.com/sebvillacorta/Linux/blob/main/images/banner2.jpg?raw=true)
 
 # Linux.
 
