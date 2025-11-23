@@ -45,9 +45,13 @@ A continuación presento mi tier list, no para decidir quién gana o cuál es �
 
 <div align="center">
   
-# ⭐ Tier List por tipo de usuario
+## ⭐ Tier List por tipo de usuario
+
+# Iniciantes o Primerisos en Linux.
 
 </div>
+
+
 
 ## 🟠 Ubuntu
 https://ubuntu.com/download
