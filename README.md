@@ -1,8 +1,16 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                      linux                     -->
+<!-- ========================================================= -->
 
-# Linux.
+<p align="center">
+<img src="https://github.com/sebvillacorta/Linux/blob/main/images/banner2.jpg?raw=true" alt="banner-linux" width="850">
+</p>
 
-![image1](https://github.com/sebvillacorta/Linux/blob/main/images/banner2.jpg?raw=true)
+<p align="center">
+<a href="https://github.com/sebvillacorta">
+<img src="[https://img.shields.io/badge/GitHub - sebvillacorta-000000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub%20-%20sebvillacorta-000000?style=for-the-badge&logo=github&logoColor=white)" />
+</a>
+</p>
 
 
   <a href="https://github.com/sebvillacorta" target="_blank">
@@ -28,63 +36,195 @@
 
 </div>
 
-</p>
-<br><br>
+
+
+# 🐧 Linux: Simple, Poderoso y para Todos
 <img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/sebvillacorta/Linux/blob/main/images/boner1.jpg?raw=true" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Que es Linux y porque es bueno.***
+Linux ya no es “difícil”.
 
-Linux es uno de los ecosistemas más poderosos y versátiles en el mundo de la informática. Hay distribuciones para todos los gustos: desde sistemas que ofrecen una experiencia lista para usar —muy al estilo de Windows o macOS— hasta alternativas que te permiten construir tu entorno desde cero, controlando absolutamente cada detalle como un verdadero ingeniero del sistema.
+Hoy es un sistema moderno, estable, personalizable y listo para cualquiera.
 
-Ya sea que busques más estabilidad, más velocidad, más personalización, o simplemente alejarte de Windows “mal optimizado” y de un macOS que puede sentirse “demasiado caro”, Linux tiene una opción diseñada para ti.
+Usar Linux es tan sencillo como instalarlo, reiniciar y empezar a trabajar.
 
-A continuación presento mi tier list, no para decidir quién gana o cuál es “el mejor”, sino para ayudarte a descubrir qué distribución encaja mejor contigo según tu tipo de uso, estilo y necesidades.😎<br><br><br><br>
+Y con un poco más de aprendizaje, puedes tener un sistema **más rápido, más seguro y más estable** que Windows.
 
- 
+## ✔ ¿Por qué Linux es tan bueno hoy?
 
+<img align="right" width=400px height=250px alt="side_sticker" src="https://github.com/user-attachments/assets/e9548214-d18c-4918-b538-b032d44bb0fc" />
 
-<div align="center">
-  
-## ⭐ Tier List por tipo de usuario
+- No se llena de basura ni se vuelve lento con el tiempo.
+- No necesitas activar nada ni pagar licencias.
+- Puedes instalar miles de apps con un clic.
+- Es seguro, rápido y totalmente personalizable.
+- Y lo mejor: **tú tienes el control del sistema.**
 
-# Iniciantes o Primerisos en Linux.
-
-</div>
-
-
-
-## 🟠 Ubuntu
-https://ubuntu.com/download
-![image2](https://github.com/sebvillacorta/Linux/blob/main/images/ubuntu.jpg?raw=true)
+Aprender un poco más te da un sistema *perfecto para ti*.
+<br><br><br><br>
 
 
-Ubuntu es una distribución Linux basada en Debian y desarrollada por Canonical. Es muy conocida por su facilidad de uso, lo que la convierte en una excelente opción para los principiantes en el mundo Linux. Además, está orientada a la estabilidad y al soporte a largo plazo, con versiones LTS (Long Term Support) que garantizan 5 años de actualizaciones y parches de seguridad.
 
 
-## Ideal para:
+# ⭐ Tier List de Linux por Tipo de Usuario
 
-  - Principiantes en Linux
+<p align="center">
+<img src="ATTACHMENT-3" alt="tier-list-linux" width="850">
+</p>
 
-  - Programación
+A continuación recomiendo las mejores distribuciones según cada necesidad.
 
-  - Ofimática y estudio
+Aquí encontrarás la distro ideal para ti, sin complicaciones.
 
-  - Equipos de trabajo y empresas
+---
 
-## Ventajas:
+# 🏫 Usuarios Casuales / Uso en Casa
 
-  - Instalación sencilla: su proceso de instalación es simple y amigable.
+### **Ubuntu**
 
-  - Gran comunidad: hay una enorme cantidad de documentación y foros donde puedes resolver dudas.
+### **Linux Mint**
 
-  - Amplio software: Ubuntu cuenta con una enorme cantidad de programas disponibles en sus repositorios.
+### **Zorin OS**
 
-  - Soporte largo: las versiones LTS reciben actualizaciones y soporte durante 5 años.
+Perfectas para estudiar, navegar, ver videos y trabajar sin problemas.
 
-## Desventajas:
+Son estables, sencillas y funcionan desde el primer minuto.
 
-  - No es la más ligera: al ser una distro más orientada a la facilidad de uso, no es la opción más ligera en cuanto a recursos.
+---
 
-  - Dependencia de Snap: Ubuntu ha integrado el sistema de paquetes Snap, lo que no gusta a todos los usuarios debido a su       tamaño y algunos problemas de compatibilidad.
+# 🖥️ Productividad / Oficina
 
-    💬 Ubuntu es uno de mis sistemas favoritos porque es perfecto para iniciarme en cualquier proyecto sin tener que complicarme demasiado con la configuración. Su estabilidad y soporte son invaluables.
+### **Fedora Workstation**
+
+Sistema moderno y muy estable.
+
+### **Ubuntu LTS**
+
+Soporte fuerte y confiabilidad absoluta.
+
+### **Pop!_OS**
+
+Fluido, rápido y excelente multitarea.
+
+---
+
+# 🔧 Entusiastas / Personalización Extrema
+
+### **Arch Linux**
+
+Control total, instalas solo lo que tú quieres.
+
+### **EndeavourOS**
+
+La experiencia Arch pero más sencilla.
+
+### **Gentoo**
+
+Compilación total: para usuarios avanzados.
+
+### **NixOS**
+
+Sistema declarativo, prácticamente a prueba de errores.
+
+---
+
+# 🏢 Empresas / Entornos Corporativos
+
+### **RHEL (Red Hat Enterprise Linux)**
+
+### **Rocky Linux**
+
+### **SUSE Linux Enterprise**
+
+Máxima estabilidad, soporte profesional y seguridad empresarial.
+
+---
+
+# 🛜 Servidores / Infraestructura
+
+### **Debian**
+
+La roca más estable del ecosistema.
+
+### **Ubuntu Server**
+
+Ideal para servidores modernos y bien documentado.
+
+### **AlmaLinux**
+
+Compatible y estable.
+
+### **CentOS Stream**
+
+---
+
+# 💻 Programadores / Desarrolladores
+
+### **Fedora**
+
+Paquetes modernos, excelente para programar.
+
+### **Arch Linux**
+
+Siempre al día y perfecto para aprender.
+
+### **openSUSE Tumbleweed**
+
+Rolling release estable.
+
+### **Pop!_OS**
+
+Optimizado para trabajo técnico.
+
+---
+
+# 🐱‍💻 Hacking Ético / Ciberseguridad
+
+### **Kali Linux**
+
+La más usada por pentesters.
+
+### **Parrot OS**
+
+Más ligera y rápida.
+
+### **BlackArch**
+
+Más de 2,000 herramientas de seguridad.
+
+---
+
+# 🧠 Resumen Rápido
+
+| Necesidad | Mejor opción |
+| --- | --- |
+| Fácil y parecido a Windows | Mint, Zorin |
+| Trabajo y productividad | Fedora, Ubuntu LTS |
+| Personalización avanzada | Arch, NixOS |
+| Empresas | RHEL, Rocky |
+| Servidores | Debian, Ubuntu Server |
+| Programación | Fedora, Arch |
+| Seguridad | Kali, Parrot |
+
+---
+
+# 💬 ¿Quieres aprender Linux fácilmente?
+
+Puedo ayudarte a:
+
+✔ elegir tu distro
+
+✔ instalarla paso a paso
+
+✔ dejar tu sistema optimizado
+
+✔ personalizarlo estilo hacker / minimalista / profesional
+
+✔ migrar desde Windows sin perder nada
+
+Solo pídelo.
+
+---
+
+<p align="center">
+<sub>Creado por Sebastián Villacorta — Apasionado por la informática, Linux y la tecnología.</sub>
+</p>
