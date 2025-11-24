@@ -205,23 +205,6 @@ Más de 2,000 herramientas de seguridad.
 | Programación | Fedora, Arch |
 | Seguridad | Kali, Parrot |
 
----
-
-# 💬 ¿Quieres aprender Linux fácilmente?
-
-Puedo ayudarte a:
-
-✔ elegir tu distro
-
-✔ instalarla paso a paso
-
-✔ dejar tu sistema optimizado
-
-✔ personalizarlo estilo hacker / minimalista / profesional
-
-✔ migrar desde Windows sin perder nada
-
-Solo pídelo.
 
 ---
 
